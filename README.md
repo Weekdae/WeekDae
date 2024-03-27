@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nikhilb.vercel.app/](https://nikhilb.vercel.app/)
 
-- 📫 How to reach me **nikhil020904@gmail.com.com**
+- 📫 How to reach me **nikhil020904@gmail.com**
 
 - Current Position **Head of Research & Development at ACM SIGKDD**
 
