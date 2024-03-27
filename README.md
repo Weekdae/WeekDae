@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil B</h1>
+
 - 👋 Hey there! I'm a passionate Student Developer with a knack for crafting elegant solutions to intricate problems. 💻
 -  🚀 My coding journey began two years ago, and I've been hooked ever since. I thrive on challenges and love delving into new technologies to broaden my skill set.
 -  🌟 Currently, I'm diving deep into the MERN STACK & AI-ML domains, aiming to make a meaningful impact. From front-end design to back-end architecture, I'm always pushing the boundaries of what's possible.
