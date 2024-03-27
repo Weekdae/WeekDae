@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil B</h1>
-<h3 align="center">Certainly! Here's a revised version: "👋 Hey there! I'm a passionate Student Developer with a knack for crafting elegant solutions to intricate problems. 💻 🚀 My coding journey began two years ago, and I've been hooked ever since. I thrive on challenges and love delving into new technologies to broaden my skill set. 🌟 Currently, I'm diving deep into the MERN STACK & AI-ML domains, aiming to make a meaningful impact. From front-end design to back-end architecture, I'm always pushing the boundaries of what's possible. 🌱 As a fervent supporter of open-source, I'm committed to contributing back to the community that's nurtured my growth. Whether it's fixing bugs, adding features, or lending a hand, I'm all in. 🔭 Beyond code, I believe in maintaining a healthy work-life balance and seek inspiration through new experiences. 📫 Interested in collaborating on a project or chatting about tech? Feel free to reach out—I'm always up for a good conversation! Let's connect and build something extraordinary together! 🚀"</h3>
+<h3 align="center">
+  - 👋 Hey there! I'm a passionate Student Developer with a knack for crafting elegant solutions to intricate problems. 💻 
+  - 🚀 My coding journey began two years ago, and I've been hooked ever since. I thrive on challenges and love delving into new technologies to broaden my skill set. - 🌟 Currently, I'm diving deep into the MERN STACK & AI-ML domains, aiming to make a meaningful impact. From front-end design to back-end architecture, I'm always pushing the boundaries of what's possible. 
+  - 🌱 As a fervent supporter of open-source, I'm committed to contributing back to the community that's nurtured my growth. Whether it's fixing bugs, adding features, or lending a hand, I'm all in. 
+  - 🔭 Beyond code, I believe in maintaining a healthy work-life balance and seek inspiration through new experiences. 
+  - 📫 Interested in collaborating on a project or chatting about tech? Feel free to reach out—I'm always up for a good conversation!
+  - Let's connect and build something extraordinary together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weekdae&label=Profile%20views&color=0e75b6&style=flat" alt="weekdae" /> </p>
 
