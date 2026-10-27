@@ -12,8 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weekdae" alt="weekdae" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
-
 - 👨‍💻 All of my projects are available at [https://nikhilb.vercel.app/](https://nikhilb.vercel.app/)
 
 - 📫 How to reach me **nikhil020904@gmail.com**
